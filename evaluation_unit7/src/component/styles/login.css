@@ -1,0 +1,17 @@
+#login_form{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 40px 40px;
+    width: 30%;
+    margin: 5% auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    border: 2px solid orange;
+}
+#login_form input{
+    border: 1px solid orange;
+    padding: 5px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
